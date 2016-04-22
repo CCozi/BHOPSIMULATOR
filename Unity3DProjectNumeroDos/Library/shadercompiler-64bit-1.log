@@ -1,0 +1,7 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6008
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=73109 outsize=9976 kw=SPOT EFFECT_BUMP EFFECT_HUE_VARIATION BILLBOARD_FACE_CAMERA_POS ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=73109 outsize=4020 kw=SPOT EFFECT_BUMP EFFECT_HUE_VARIATION BILLBOARD_FACE_CAMERA_POS ok=1

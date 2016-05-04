@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 5aa56144884ccd946b400b97f5de7f3b
+timeCreated: 1457545864
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm lower
+    100002: Arm mid
+    100004: Arm upper
+    100006: Base
+    100008: ClawLower
+    100010: ClawMid
+    100012: ClawUpper
+    100014: Elbow lower
+    100016: Elbow mid
+    100018: IK Chain001
+    100020: //RootNode
+    100022: PistonL
+    100024: PistonU
+    100026: Point001
+    100028: Point002
+    100030: Point003
+    100032: Point004
+    100034: ShaftL
+    100036: ShaftU
+    400000: Arm lower
+    400002: Arm mid
+    400004: Arm upper
+    400006: Base
+    400008: ClawLower
+    400010: ClawMid
+    400012: ClawUpper
+    400014: Elbow lower
+    400016: Elbow mid
+    400018: IK Chain001
+    400020: //RootNode
+    400022: PistonL
+    400024: PistonU
+    400026: Point001
+    400028: Point002
+    400030: Point003
+    400032: Point004
+    400034: ShaftL
+    400036: ShaftU
+    2300000: Arm lower
+    2300002: Arm mid
+    2300004: Arm upper
+    2300006: Base
+    2300008: ClawLower
+    2300010: ClawMid
+    2300012: ClawUpper
+    2300014: Elbow lower
+    2300016: Elbow mid
+    2300018: PistonL
+    2300020: PistonU
+    2300022: ShaftL
+    2300024: ShaftU
+    3300000: Arm lower
+    3300002: Arm mid
+    3300004: Arm upper
+    3300006: Base
+    3300008: ClawLower
+    3300010: ClawMid
+    3300012: ClawUpper
+    3300014: Elbow lower
+    3300016: Elbow mid
+    3300018: PistonL
+    3300020: PistonU
+    3300022: ShaftL
+    3300024: ShaftU
+    4300000: Base
+    4300002: Arm lower
+    4300004: Elbow lower
+    4300006: Arm mid
+    4300008: Elbow mid
+    4300010: Arm upper
+    4300012: PistonL
+    4300014: PistonU
+    4300016: ClawMid
+    4300018: ClawUpper
+    4300020: ShaftU
+    4300022: ClawLower
+    4300024: ShaftL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
